@@ -1,0 +1,38 @@
+{
+  "tortenelem": [
+    {
+      "question": "Mikor volt a mohácsi csata?",
+      "answers": ["1526", "1532", "1500", "1541"],
+      "correct": 0
+    },
+    {
+      "question": "Ki volt az első magyar király?",
+      "answers": ["Szent István", "II. András", "Mátyás király", "IV. Béla"],
+      "correct": 0
+    }
+  ],
+  "allatok": [
+    {
+      "question": "Melyik állat a leggyorsabb?",
+      "answers": ["Cheetah", "Sas", "Delfin", "Pillangó"],
+      "correct": 0
+    },
+    {
+      "question": "Melyik állat él a vízben?",
+      "answers": ["Hal", "Macska", "Kutya", "Ló"],
+      "correct": 0
+    }
+  ],
+  "tudomany": [
+    {
+      "question": "Ki találta fel az izzólámpát?",
+      "answers": ["Edison", "Tesla", "Newton", "Einstein"],
+      "correct": 0
+    },
+    {
+      "question": "Mi a víz vegyjele?",
+      "answers": ["H2O", "CO2", "O2", "NaCl"],
+      "correct": 0
+    }
+  ]
+}
